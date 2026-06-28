@@ -1,4 +1,4 @@
-# POSTGRES_SQL
+# POSTGRESQL
 
 Day 1 - 29/06/2026
 
