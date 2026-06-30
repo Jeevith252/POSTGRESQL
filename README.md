@@ -28,13 +28,15 @@ This repository contains my practice and learning exercises on PostgreSQL fundam
 
 Day 2 - 30/06/2026
 
-##Topics Covered
--Constraints in SQL
- -PRIMARY KEY 
- -NOT NULL
- -UNIQUE
- -DEFAULT
- -CHECK
- -FORIEGN KEY
 
+## Topics Covered
+- Constraints In SQL
+
+  - PRIMARY KEY
+  - NOT NULL
+  - UNIQUE
+  - DEFAULT
+  - CHECK
+  - FORIEGN KEY
+    
  
