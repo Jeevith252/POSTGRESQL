@@ -1,6 +1,6 @@
 # POSTGRESQL
 
-Day 1 - 29/06/2026
+## Day 1 - 29/06/2026
 
 
 This repository contains my practice and learning exercises on PostgreSQL fundamentals.
@@ -26,7 +26,10 @@ This repository contains my practice and learning exercises on PostgreSQL fundam
 
 
 
-Day 2 - 30/06/2026
+
+
+
+## Day 2 - 30/06/2026
 
 
 ## Topics Covered
