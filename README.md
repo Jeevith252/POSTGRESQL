@@ -23,3 +23,18 @@ This repository contains my practice and learning exercises on PostgreSQL fundam
 - INSERT statements
 - SQL Comments
 - Basic SQL Syntax and Queries
+
+
+
+Day 2 - 30/06/2026
+
+##Topics Covered
+-Constraints in SQL
+ -PRIMARY KEY 
+ -NOT NULL
+ -UNIQUE
+ -DEFAULT
+ -CHECK
+ -FORIEGN KEY
+
+ 
