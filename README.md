@@ -43,3 +43,23 @@ This repository contains my practice and learning exercises on PostgreSQL fundam
   - FORIEGN KEY
     
  
+Day 3 - 5/07/2026
+
+#  Products Table - PostgreSQL
+
+A simple PostgreSQL database project name Flipkart table for storing product inventory information. This project demonstrates the use of SQL constraints, default values, primary keys, and data validation.
+
+---
+
+## 📌 Features
+
+- Auto-incrementing Product ID
+- Unique SKU Code for every product
+- Price validation using CHECK constraint
+- Stock quantity management
+- Product availability status
+- Product categorization
+- Automatic creation date
+- Automatic timestamp for record creation
+
+---
