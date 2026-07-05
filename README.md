@@ -43,7 +43,7 @@ This repository contains my practice and learning exercises on PostgreSQL fundam
   - FORIEGN KEY
     
  
-Day 3 - 5/07/2026
+##Day 3 - 5/07/2026
 
 #  Products Table - PostgreSQL
 
