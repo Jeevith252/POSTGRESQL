@@ -64,3 +64,64 @@ A simple PostgreSQL database project name Flipkart table for storing product inv
 - Automatic timestamp for record creation
 
 ---
+
+
+## Day 4 - 7/07/2026
+
+
+## 📚 Topics Covered
+
+### 1. SQL Clauses
+- SELECT
+- FROM
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- DISTINCT
+- LIMIT
+
+---
+
+### 2. SQL Operators
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+  - AND
+  - OR
+  - NOT
+- BETWEEN
+- IN
+- LIKE
+- IS NULL
+- EXISTS
+
+---
+
+### 3. Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+Used together with:
+- GROUP BY
+- HAVING
+
+---
+
+### 4. String Functions
+- UPPER()
+- LOWER()
+- LENGTH()
+- CONCAT()
+- SUBSTRING()
+- TRIM()
+- REPLACE()
+- LEFT()
+- RIGHT()
+
+---
+
+
