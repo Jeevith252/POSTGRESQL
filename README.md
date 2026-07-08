@@ -125,3 +125,49 @@ Used together with:
 ---
 
 
+## DAY 5 - 8/07/2026
+
+##  Topics Covered
+
+### 1. ALTER Statement
+Learned how to modify the structure of an existing table.
+
+#### Operations Practiced
+- Add a new column
+- Modify the data type of an existing column
+- Rename a column
+- Rename a table
+- Drop a column
+- Set and remove default values
+- Add and remove constraints (basic understanding)
+
+**Example**
+```sql
+ALTER TABLE Employees
+ADD Email VARCHAR(100);
+
+ALTER TABLE Employees
+DROP COLUMN Email;
+```
+
+---
+
+### 2. CASE Statement
+Learned how to apply conditional logic within SQL queries.
+
+**Example**
+```sql
+SELECT
+    employee_name,
+    salary,
+    CASE
+        WHEN salary >= 80000 THEN 'High'
+        WHEN salary >= 50000 THEN 'Medium'
+        ELSE 'Low'
+    END AS Salary_Category
+FROM Employees;
+```
+
+
+
+
